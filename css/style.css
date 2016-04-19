@@ -1,0 +1,13 @@
+
+#main{
+
+}
+
+.hejsan{
+	display: all;
+}
+
+#mainPrice, #dessertPrice, #starterPrice{
+	
+	float: right;
+}
